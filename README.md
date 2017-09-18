@@ -7,4 +7,4 @@
 
 # Tensor flow and machine learning
 * [Starting out with Haskell Tensor Flow](https://mmhaskell.com/blog/2017/8/14/starting-out-with-haskell-tensor-flow) - from Monday morning Haskell
-* [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - The world’s easiest introduction to Machine Learning
+* [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - The world’s easiest introduction to Machine Learning, see also courses on lynda.com eg [https://news.ycombinator.com/item?id=15270189](https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Essential-Training-Value-Estimations/548594-2.html)
