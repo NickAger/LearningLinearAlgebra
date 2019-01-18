@@ -1,5 +1,6 @@
 # LearningLinearAlgebra
 
+* [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [All the Linear Algebra You Need for AI](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb)
 * [Data Science and Robots](http://brohrer.github.io/blog.html)
 * [Matlab: Linear Algebra](http://people.ds.cam.ac.uk/nmm1/Matlab/)
