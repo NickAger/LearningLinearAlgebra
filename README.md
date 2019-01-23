@@ -9,3 +9,7 @@
 # Tensor flow and machine learning
 * [Starting out with Haskell Tensor Flow](https://mmhaskell.com/blog/2017/8/14/starting-out-with-haskell-tensor-flow) - from Monday morning Haskell
 * [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - The world’s easiest introduction to Machine Learning. See also courses on lynda.com eg [Machine Learning & AI Foundations: Value Estimations](https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Essential-Training-Value-Estimations/548594-2.html)
+
+# DSP
+* [The Scientist and Engineer's Guide to
+Digital Signal Processing](http://www.dspguide.com)
