@@ -14,3 +14,6 @@
 # DSP
 * [The Scientist and Engineer's Guide to
 Digital Signal Processing](http://www.dspguide.com)
+
+# Mathematics for Computer Science
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf
