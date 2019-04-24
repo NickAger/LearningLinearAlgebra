@@ -1,5 +1,6 @@
 # LearningLinearAlgebra
 
+* [Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
 * [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [All the Linear Algebra You Need for AI](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb)
 * [Graphical linear algebra](https://graphicallinearalgebra.net)
