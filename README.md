@@ -14,6 +14,9 @@
 * [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) - The world’s easiest introduction to Machine Learning. See also courses on lynda.com eg [Machine Learning & AI Foundations: Value Estimations](https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Essential-Training-Value-Estimations/548594-2.html)
 * https://github.com/NickAger/handson-NN
 
+# Markov Chains
+> Markov Chains are simpler than deep learning, but very well-studied.  And despite their simplicity, they are widely applicable in the industry.  For example, JP Morgan used them to price stocks, and HBO used them to generate the scripts for the final season of Game of Thrones.
+
 # DSP
 * [The Scientist and Engineer's Guide to
 Digital Signal Processing](http://www.dspguide.com)
